@@ -1,4 +1,4 @@
-### Mercury
+# Mercury
 
 Big planet
 - not earth
